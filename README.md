@@ -1,2 +1,2 @@
 # blue
-tiny hardware OS
+music platform, providing service to provider and musicians
